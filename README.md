@@ -15,7 +15,7 @@
 ### 模板获取
 
 您可以通过两种方式来获取模板：
-1. 去 [Releases](https://github.com/sikouhjw/gdutthesis-Word/releases/latest) 下载；
+1. 去 [Releases](https://github.com/sikouhjw/gdutthesis-Word/releases/latest) 下载发行的压缩包，解压后即可得到模板文件，可直接使用；
 2. 将 `X` 文件夹下的所有文件压缩为 `X.zip`，然后将其后缀名改为 `dotx`，即可使用，其中 `X` 为任务书、正文、外文文献译文、创新奖。
 
 不建议您手动生成模板。
