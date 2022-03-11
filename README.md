@@ -59,7 +59,7 @@
 
 ### 贡献
 
-如果您有任何改进意见或者功能需求，欢迎提交 [issue](https://github.com/sikouhjw/gdutthesis-Word/issues) 或 [pull request](https://github.com/sikouhjw/gdutthesis-Word/pulls)。
+如果您有任何改进意见或者功能需求，欢迎提交 [issue](https://github.com/sikouhjw/gdutthesis-Word/issues)、[discussion](https://github.com/sikouhjw/gdutthesis-Word/discussions) 或 [pull request](https://github.com/sikouhjw/gdutthesis-Word/pulls)。
 
 ### 许可证
 
