@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ds:datastoreItem ds:itemID="{538EAB1D-E97A-4AA0-AB38-B57DBAD80B07}" xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml"><ds:schemaRefs><ds:schemaRef ds:uri="https://github.com/rylandev/TeXHgOffice"/><ds:schemaRef ds:uri=""/></ds:schemaRefs></ds:datastoreItem>
+<ds:datastoreItem ds:itemID="{47A809E3-F2E7-49AF-8B82-055B7CBCA7DC}" xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml"><ds:schemaRefs><ds:schemaRef ds:uri="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
