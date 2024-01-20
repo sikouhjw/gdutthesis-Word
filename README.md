@@ -67,4 +67,4 @@
 
 -----
 
-Copyright (C) 2022&ndash;2023 by sikouhjw.
+Copyright (C) 2022&ndash;2024 by sikouhjw.
