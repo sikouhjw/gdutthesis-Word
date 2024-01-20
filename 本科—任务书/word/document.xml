@@ -1,2 +1,984 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14"><w:body><w:p w14:paraId="56B7A6E4" w14:textId="1FBB2FFF" w:rsidR="002A752B" w:rsidRDefault="00053B1C" w:rsidP="00D37B79"><w:pPr><w:pStyle w:val="title"/><w:spacing w:before="312" w:after="312"/><w:rPr><w:rStyle w:val="a7"/><w:i w:val="0"/><w:iCs w:val="0"/><w:color w:val="auto"/></w:rPr></w:pPr><w:r w:rsidRPr="00053B1C"><w:rPr><w:rStyle w:val="a7"/><w:rFonts w:hint="eastAsia"/><w:i w:val="0"/><w:iCs w:val="0"/><w:color w:val="auto"/></w:rPr><w:t>广东工业大学本科生毕业设计（论文）任务书</w:t></w:r></w:p><w:tbl><w:tblPr><w:tblStyle w:val="a9"/><w:tblW w:w="0" w:type="auto"/><w:tblInd w:w="988" w:type="dxa"/><w:tblBorders><w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/></w:tblBorders><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="1134"/><w:gridCol w:w="5244"/></w:tblGrid><w:tr w:rsidR="000E198A" w14:paraId="7E0DDD1E" w14:textId="77777777" w:rsidTr="007062AC"><w:tc><w:tcPr><w:tcW w:w="1134" w:type="dxa"/></w:tcPr><w:p w14:paraId="424C14F5" w14:textId="172C340E" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E"><w:pPr><w:pStyle w:val="info"/><w:jc w:val="distribute"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>题目名称</w:t></w:r></w:p></w:tc><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="-1614824504"/><w:placeholder><w:docPart w:val="6627CBB2F321443FBF64C9433F4B852B"/></w:placeholder><w:text/></w:sdtPr><w:sdtContent><w:tc><w:tcPr><w:tcW w:w="5244" w:type="dxa"/><w:tcBorders><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders></w:tcPr><w:p w14:paraId="7BCCE22D" w14:textId="23971E35" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316"><w:pPr><w:pStyle w:val="info"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的题目</w:t></w:r></w:p></w:tc></w:sdtContent></w:sdt></w:tr><w:tr w:rsidR="000E198A" w14:paraId="7F099AAA" w14:textId="77777777" w:rsidTr="007062AC"><w:tc><w:tcPr><w:tcW w:w="1134" w:type="dxa"/></w:tcPr><w:p w14:paraId="74E8C301" w14:textId="7D911997" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E"><w:pPr><w:pStyle w:val="info"/><w:jc w:val="distribute"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>学生学院</w:t></w:r></w:p></w:tc><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="1040330943"/><w:placeholder><w:docPart w:val="D5E98C725F3D4CF988202430103589A0"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:tc><w:tcPr><w:tcW w:w="5244" w:type="dxa"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders></w:tcPr><w:p w14:paraId="208DE7FD" w14:textId="0274A7C1" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316"><w:pPr><w:pStyle w:val="info"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入你的学院</w:t></w:r></w:p></w:tc></w:sdtContent></w:sdt></w:tr><w:tr w:rsidR="000E198A" w14:paraId="76456EBF" w14:textId="77777777" w:rsidTr="007062AC"><w:tc><w:tcPr><w:tcW w:w="1134" w:type="dxa"/></w:tcPr><w:p w14:paraId="2E7F7015" w14:textId="27EC3B9F" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E"><w:pPr><w:pStyle w:val="info"/><w:jc w:val="distribute"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>专业班级</w:t></w:r></w:p></w:tc><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="126279900"/><w:placeholder><w:docPart w:val="8FA7FE7E048146A5AAEE2168FDC46997"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:tc><w:tcPr><w:tcW w:w="5244" w:type="dxa"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders></w:tcPr><w:p w14:paraId="69FBA713" w14:textId="2C27BC7A" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316"><w:pPr><w:pStyle w:val="info"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的专业班级</w:t></w:r></w:p></w:tc></w:sdtContent></w:sdt></w:tr><w:tr w:rsidR="000E198A" w14:paraId="6F0C7E35" w14:textId="77777777" w:rsidTr="007062AC"><w:tc><w:tcPr><w:tcW w:w="1134" w:type="dxa"/></w:tcPr><w:p w14:paraId="60B69656" w14:textId="62B9AD25" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E"><w:pPr><w:pStyle w:val="info"/><w:jc w:val="distribute"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>姓名</w:t></w:r></w:p></w:tc><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="1461223267"/><w:placeholder><w:docPart w:val="55FB9DAEC3E848FC9C616E8F2F825A94"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:tc><w:tcPr><w:tcW w:w="5244" w:type="dxa"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders></w:tcPr><w:p w14:paraId="57B2524F" w14:textId="5A246CCC" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316"><w:pPr><w:pStyle w:val="info"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的姓名</w:t></w:r></w:p></w:tc></w:sdtContent></w:sdt></w:tr><w:tr w:rsidR="000E198A" w14:paraId="5A83AA1A" w14:textId="77777777" w:rsidTr="007062AC"><w:tc><w:tcPr><w:tcW w:w="1134" w:type="dxa"/></w:tcPr><w:p w14:paraId="4D52AB78" w14:textId="0E806C54" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E"><w:pPr><w:pStyle w:val="info"/><w:jc w:val="distribute"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>学号</w:t></w:r></w:p></w:tc><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="547505167"/><w:placeholder><w:docPart w:val="D1903BB5AAB64B5AA502246E1DB939AD"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:tc><w:tcPr><w:tcW w:w="5244" w:type="dxa"/><w:tcBorders><w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/><w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/></w:tcBorders></w:tcPr><w:p w14:paraId="7788E9F1" w14:textId="63320592" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316"><w:pPr><w:pStyle w:val="info"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的学号</w:t></w:r></w:p></w:tc></w:sdtContent></w:sdt></w:tr></w:tbl><w:p w14:paraId="6B2D1D7B" w14:textId="44DD5946" w:rsidR="00571516" w:rsidRDefault="00011B35" w:rsidP="00F7690B"><w:pPr><w:pStyle w:val="section"/><w:spacing w:before="312"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>一、</w:t></w:r><w:r w:rsidR="006A736F" w:rsidRPr="006A736F"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>毕业设计（论文）的内容与要求</w:t></w:r></w:p><w:p w14:paraId="24E1FD2F" w14:textId="6BD210B7" w:rsidR="00B148BD" w:rsidRDefault="00B148BD" w:rsidP="00B148BD"><w:pPr><w:ind w:firstLine="480"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>测试</w:t></w:r></w:p><w:p w14:paraId="74D836B0" w14:textId="5F5EBCF7" w:rsidR="00365AB1" w:rsidRDefault="00365AB1" w:rsidP="00365AB1"><w:pPr><w:pStyle w:val="section"/><w:spacing w:before="312"/></w:pPr><w:r w:rsidRPr="00365AB1"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>二、毕业设计（论文）应完成的工作</w:t></w:r></w:p><w:p w14:paraId="50843675" w14:textId="469A2522" w:rsidR="00365AB1" w:rsidRDefault="00AE47DE" w:rsidP="00365AB1"><w:pPr><w:ind w:firstLine="480"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>测试</w:t></w:r></w:p><w:p w14:paraId="228F5B53" w14:textId="7E007999" w:rsidR="00AE47DE" w:rsidRDefault="00DE658C" w:rsidP="00DE658C"><w:pPr><w:pStyle w:val="section"/><w:spacing w:before="312"/></w:pPr><w:r w:rsidRPr="00DE658C"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>三、毕业设计（论文）进程安排</w:t></w:r></w:p><w:tbl><w:tblPr><w:tblStyle w:val="a9"/><w:tblW w:w="0" w:type="auto"/><w:tblInd w:w="279" w:type="dxa"/><w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/></w:tblPr><w:tblGrid><w:gridCol w:w="850"/><w:gridCol w:w="4253"/><w:gridCol w:w="1276"/><w:gridCol w:w="1417"/></w:tblGrid><w:tr w:rsidR="00130477" w14:paraId="698DB026" w14:textId="77777777" w:rsidTr="00543F23"><w:tc><w:tcPr><w:tcW w:w="850" w:type="dxa"/></w:tcPr><w:p w14:paraId="74F68946" w14:textId="050E0A21" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>序号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="4253" w:type="dxa"/></w:tcPr><w:p w14:paraId="30FD3BBD" w14:textId="64733BC2" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r w:rsidRPr="00130477"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>设计（论文）各阶段内容</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1276" w:type="dxa"/></w:tcPr><w:p w14:paraId="7DE99E7E" w14:textId="2926BB83" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>地点</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1417" w:type="dxa"/></w:tcPr><w:p w14:paraId="06724A01" w14:textId="33AD1838" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>起止日期</w:t></w:r></w:p></w:tc></w:tr><w:tr w:rsidR="00130477" w14:paraId="3E9F4368" w14:textId="77777777" w:rsidTr="00543F23"><w:tc><w:tcPr><w:tcW w:w="850" w:type="dxa"/></w:tcPr><w:p w14:paraId="7BAB8CF3" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="4253" w:type="dxa"/></w:tcPr><w:p w14:paraId="7F4B3CBC" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1276" w:type="dxa"/></w:tcPr><w:p w14:paraId="0465FF3F" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1417" w:type="dxa"/></w:tcPr><w:p w14:paraId="57FDCC9B" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr w:rsidR="00130477" w14:paraId="29216EEC" w14:textId="77777777" w:rsidTr="00543F23"><w:tc><w:tcPr><w:tcW w:w="850" w:type="dxa"/></w:tcPr><w:p w14:paraId="7EE9B23C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="4253" w:type="dxa"/></w:tcPr><w:p w14:paraId="6667B69C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1276" w:type="dxa"/></w:tcPr><w:p w14:paraId="33D5609B" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="1417" w:type="dxa"/></w:tcPr><w:p w14:paraId="1BE7DD4C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477"><w:pPr><w:pStyle w:val="arrange"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr></w:p></w:tc></w:tr></w:tbl><w:p w14:paraId="7345CBA1" w14:textId="4A74394D" w:rsidR="009A1F20" w:rsidRDefault="006C5810" w:rsidP="006C5810"><w:pPr><w:pStyle w:val="section"/><w:spacing w:before="312"/></w:pPr><w:r w:rsidRPr="006C5810"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>四、应收集的资料及主要参考文献</w:t></w:r></w:p><w:p w14:paraId="67C71211" w14:textId="10017C9D" w:rsidR="00C56029" w:rsidRDefault="00C56029" w:rsidP="00C56029"><w:pPr><w:ind w:firstLine="480"/></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>测试</w:t></w:r></w:p><w:p w14:paraId="2416459D" w14:textId="6FAE90CC" w:rsidR="00F25FAC" w:rsidRPr="00C56029" w:rsidRDefault="00F25FAC" w:rsidP="00C56029"><w:pPr><w:ind w:firstLine="480"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>最后这部分需要手动置底</w:t></w:r><w:r w:rsidR="00350729"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>；“</w:t></w:r><w:r w:rsidR="00B5224E"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>指导教师签名</w:t></w:r><w:r w:rsidR="00350729"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>”</w:t></w:r><w:r w:rsidR="00B5224E"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>和</w:t></w:r><w:r w:rsidR="00C66246"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>“</w:t></w:r><w:r w:rsidR="00612F3D"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>专业负责人签章</w:t></w:r><w:r w:rsidR="00C66246"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>”</w:t></w:r><w:r w:rsidR="00612F3D"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>对齐需要使用</w:t></w:r><w:r w:rsidR="00612F3D"><w:t>Tab</w:t></w:r><w:r w:rsidR="00612F3D"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>键</w:t></w:r><w:r w:rsidR="00A86503"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>；</w:t></w:r><w:r w:rsidR="00DC0456"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>看完</w:t></w:r><w:r w:rsidR="00A86503"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>这段话</w:t></w:r><w:r w:rsidR="00DC0456"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>后</w:t></w:r><w:r w:rsidR="00A86503"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>请</w:t></w:r><w:r w:rsidR="00FF3EA4"><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>删掉。</w:t></w:r></w:p><w:p w14:paraId="38A96FB4" w14:textId="46B62357" w:rsidR="00497E5A" w:rsidRDefault="00497E5A" w:rsidP="00624D28"><w:pPr><w:pStyle w:val="ending"/><w:spacing w:after="312"/><w:ind w:firstLine="480"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>发出任务书日期：</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="855691567"/><w:placeholder><w:docPart w:val="D69CA828735047D389D55B96BE56C6DC"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00A4793E"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入年份</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>年</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="901870296"/><w:placeholder><w:docPart w:val="E91E18C43D14445ABF9BB96E3DB799FF"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00A4793E"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入月份</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>月</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="-1904443324"/><w:placeholder><w:docPart w:val="9C7A1CAB66C84A6B9CAEC9498F2C7BD7"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00A4793E"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入日</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>日</w:t></w:r><w:r w:rsidR="00005366"><w:tab/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>指导教师签名：</w:t></w:r></w:p><w:p w14:paraId="47C06CC2" w14:textId="5476ADED" w:rsidR="00497E5A" w:rsidRDefault="00497E5A" w:rsidP="00624D28"><w:pPr><w:pStyle w:val="ending"/><w:spacing w:after="312"/><w:ind w:firstLine="480"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>预计完成日期：</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="-861283377"/><w:placeholder><w:docPart w:val="B952C46316774145BB72F55EADE893C9"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00005366"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入年份</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>年</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="-794674986"/><w:placeholder><w:docPart w:val="ACC2B1F8870C41E389F5D35C06A95BE0"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00AB4330"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入月份</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>月</w:t></w:r><w:sdt><w:sdtPr><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:id w:val="-1375229681"/><w:placeholder><w:docPart w:val="31587C9810CD45E18ADEDC96B37910C4"/></w:placeholder><w:showingPlcHdr/><w:text/></w:sdtPr><w:sdtContent><w:r w:rsidR="00136076"><w:rPr><w:rStyle w:val="aa"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入日</w:t></w:r></w:sdtContent></w:sdt><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>日</w:t></w:r><w:r w:rsidR="00C531A9"><w:tab/></w:r><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>专业负责人签章：</w:t></w:r></w:p><w:p w14:paraId="26B55DB1" w14:textId="2E7122FA" w:rsidR="00903CE1" w:rsidRPr="00903CE1" w:rsidRDefault="00497E5A" w:rsidP="00624D28"><w:pPr><w:pStyle w:val="ending"/><w:spacing w:after="312"/><w:ind w:firstLine="480"/><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>学院分管教学负责人签章：</w:t></w:r></w:p><w:sectPr w:rsidR="00903CE1" w:rsidRPr="00903CE1"><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/><w:cols w:space="425"/><w:docGrid w:type="lines" w:linePitch="312"/></w:sectPr></w:body></w:document>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="56B7A6E4" w14:textId="1FBB2FFF" w:rsidR="002A752B" w:rsidRDefault="00053B1C" w:rsidP="00D37B79">
+      <w:pPr>
+        <w:pStyle w:val="title"/>
+        <w:spacing w:before="312" w:after="312"/>
+        <w:rPr>
+          <w:rStyle w:val="a7"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:color w:val="auto"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00053B1C">
+        <w:rPr>
+          <w:rStyle w:val="a7"/>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:color w:val="auto"/>
+        </w:rPr>
+        <w:t>广东工业大学本科生毕业设计（论文）任务书</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a9"/>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblInd w:w="988" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+          <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="1134"/>
+        <w:gridCol w:w="5244"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="000E198A" w14:paraId="7E0DDD1E" w14:textId="77777777" w:rsidTr="007062AC">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1134" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="424C14F5" w14:textId="172C340E" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E">
+            <w:pPr>
+              <w:pStyle w:val="info"/>
+              <w:jc w:val="distribute"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>题目名称</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:sdt>
+          <w:sdtPr>
+            <w:rPr>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:id w:val="-1614824504"/>
+            <w:placeholder>
+              <w:docPart w:val="6627CBB2F321443FBF64C9433F4B852B"/>
+            </w:placeholder>
+            <w:text/>
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="5244" w:type="dxa"/>
+                <w:tcBorders>
+                  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+              </w:tcPr>
+              <w:p w14:paraId="7BCCE22D" w14:textId="23971E35" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316">
+                <w:pPr>
+                  <w:pStyle w:val="info"/>
+                  <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="aa"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                  <w:t>输入您的题目</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:sdtContent>
+        </w:sdt>
+      </w:tr>
+      <w:tr w:rsidR="000E198A" w14:paraId="7F099AAA" w14:textId="77777777" w:rsidTr="007062AC">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1134" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="74E8C301" w14:textId="7D911997" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E">
+            <w:pPr>
+              <w:pStyle w:val="info"/>
+              <w:jc w:val="distribute"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>学生学院</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:sdt>
+          <w:sdtPr>
+            <w:rPr>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:id w:val="1040330943"/>
+            <w:placeholder>
+              <w:docPart w:val="D5E98C725F3D4CF988202430103589A0"/>
+            </w:placeholder>
+            <w:showingPlcHdr/>
+            <w:text/>
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="5244" w:type="dxa"/>
+                <w:tcBorders>
+                  <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+              </w:tcPr>
+              <w:p w14:paraId="208DE7FD" w14:textId="0274A7C1" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316">
+                <w:pPr>
+                  <w:pStyle w:val="info"/>
+                  <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="aa"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                  <w:t>输入你的学院</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:sdtContent>
+        </w:sdt>
+      </w:tr>
+      <w:tr w:rsidR="000E198A" w14:paraId="76456EBF" w14:textId="77777777" w:rsidTr="007062AC">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1134" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="2E7F7015" w14:textId="27EC3B9F" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E">
+            <w:pPr>
+              <w:pStyle w:val="info"/>
+              <w:jc w:val="distribute"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>专业班级</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:sdt>
+          <w:sdtPr>
+            <w:rPr>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:id w:val="126279900"/>
+            <w:placeholder>
+              <w:docPart w:val="8FA7FE7E048146A5AAEE2168FDC46997"/>
+            </w:placeholder>
+            <w:showingPlcHdr/>
+            <w:text/>
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="5244" w:type="dxa"/>
+                <w:tcBorders>
+                  <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+              </w:tcPr>
+              <w:p w14:paraId="69FBA713" w14:textId="2C27BC7A" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316">
+                <w:pPr>
+                  <w:pStyle w:val="info"/>
+                  <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="aa"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                  <w:t>输入您的专业班级</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:sdtContent>
+        </w:sdt>
+      </w:tr>
+      <w:tr w:rsidR="000E198A" w14:paraId="6F0C7E35" w14:textId="77777777" w:rsidTr="007062AC">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1134" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="60B69656" w14:textId="62B9AD25" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E">
+            <w:pPr>
+              <w:pStyle w:val="info"/>
+              <w:jc w:val="distribute"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>姓名</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:sdt>
+          <w:sdtPr>
+            <w:rPr>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:id w:val="1461223267"/>
+            <w:placeholder>
+              <w:docPart w:val="55FB9DAEC3E848FC9C616E8F2F825A94"/>
+            </w:placeholder>
+            <w:showingPlcHdr/>
+            <w:text/>
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="5244" w:type="dxa"/>
+                <w:tcBorders>
+                  <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+              </w:tcPr>
+              <w:p w14:paraId="57B2524F" w14:textId="5A246CCC" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316">
+                <w:pPr>
+                  <w:pStyle w:val="info"/>
+                  <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="aa"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                  <w:t>输入您的姓名</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:sdtContent>
+        </w:sdt>
+      </w:tr>
+      <w:tr w:rsidR="000E198A" w14:paraId="5A83AA1A" w14:textId="77777777" w:rsidTr="007062AC">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1134" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="4D52AB78" w14:textId="0E806C54" w:rsidR="000E198A" w:rsidRDefault="000E198A" w:rsidP="0045679E">
+            <w:pPr>
+              <w:pStyle w:val="info"/>
+              <w:jc w:val="distribute"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>学号</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:sdt>
+          <w:sdtPr>
+            <w:rPr>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:id w:val="547505167"/>
+            <w:placeholder>
+              <w:docPart w:val="D1903BB5AAB64B5AA502246E1DB939AD"/>
+            </w:placeholder>
+            <w:showingPlcHdr/>
+            <w:text/>
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="5244" w:type="dxa"/>
+                <w:tcBorders>
+                  <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+              </w:tcPr>
+              <w:p w14:paraId="7788E9F1" w14:textId="63320592" w:rsidR="000E198A" w:rsidRDefault="00CF1B7D" w:rsidP="00A46316">
+                <w:pPr>
+                  <w:pStyle w:val="info"/>
+                  <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="aa"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                  </w:rPr>
+                  <w:t>输入您的学号</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:sdtContent>
+        </w:sdt>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="6B2D1D7B" w14:textId="44DD5946" w:rsidR="00571516" w:rsidRDefault="00011B35" w:rsidP="00F7690B">
+      <w:pPr>
+        <w:pStyle w:val="section"/>
+        <w:spacing w:before="312"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>一、</w:t>
+      </w:r>
+      <w:r w:rsidR="006A736F" w:rsidRPr="006A736F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>毕业设计（论文）的内容与要求</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="24E1FD2F" w14:textId="6BD210B7" w:rsidR="00B148BD" w:rsidRDefault="00B148BD" w:rsidP="00B148BD">
+      <w:pPr>
+        <w:ind w:firstLine="480"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>测试</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74D836B0" w14:textId="5F5EBCF7" w:rsidR="00365AB1" w:rsidRDefault="00365AB1" w:rsidP="00365AB1">
+      <w:pPr>
+        <w:pStyle w:val="section"/>
+        <w:spacing w:before="312"/>
+      </w:pPr>
+      <w:r w:rsidRPr="00365AB1">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>二、毕业设计（论文）应完成的工作</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="50843675" w14:textId="469A2522" w:rsidR="00365AB1" w:rsidRDefault="00AE47DE" w:rsidP="00365AB1">
+      <w:pPr>
+        <w:ind w:firstLine="480"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>测试</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="228F5B53" w14:textId="7E007999" w:rsidR="00AE47DE" w:rsidRDefault="00DE658C" w:rsidP="00DE658C">
+      <w:pPr>
+        <w:pStyle w:val="section"/>
+        <w:spacing w:before="312"/>
+      </w:pPr>
+      <w:r w:rsidRPr="00DE658C">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>三、毕业设计（论文）进程安排</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="a9"/>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblInd w:w="279" w:type="dxa"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="850"/>
+        <w:gridCol w:w="4253"/>
+        <w:gridCol w:w="1276"/>
+        <w:gridCol w:w="1417"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00130477" w14:paraId="698DB026" w14:textId="77777777" w:rsidTr="00543F23">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="850" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="74F68946" w14:textId="050E0A21" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>序号</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4253" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="30FD3BBD" w14:textId="64733BC2" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00130477">
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>设计（论文）各阶段内容</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1276" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="7DE99E7E" w14:textId="2926BB83" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>地点</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1417" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="06724A01" w14:textId="33AD1838" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>起止日期</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00130477" w14:paraId="3E9F4368" w14:textId="77777777" w:rsidTr="00543F23">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="850" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="7BAB8CF3" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4253" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="7F4B3CBC" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1276" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="0465FF3F" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1417" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="57FDCC9B" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00130477" w14:paraId="29216EEC" w14:textId="77777777" w:rsidTr="00543F23">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="850" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="7EE9B23C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4253" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="6667B69C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1276" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="33D5609B" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1417" w:type="dxa"/>
+          </w:tcPr>
+          <w:p w14:paraId="1BE7DD4C" w14:textId="77777777" w:rsidR="00130477" w:rsidRDefault="00130477" w:rsidP="00130477">
+            <w:pPr>
+              <w:pStyle w:val="arrange"/>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="7345CBA1" w14:textId="4A74394D" w:rsidR="009A1F20" w:rsidRDefault="006C5810" w:rsidP="006C5810">
+      <w:pPr>
+        <w:pStyle w:val="section"/>
+        <w:spacing w:before="312"/>
+      </w:pPr>
+      <w:r w:rsidRPr="006C5810">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>四、应收集的资料及主要参考文献</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="67C71211" w14:textId="10017C9D" w:rsidR="00C56029" w:rsidRDefault="00C56029" w:rsidP="00C56029">
+      <w:pPr>
+        <w:ind w:firstLine="480"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>测试</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2416459D" w14:textId="6FAE90CC" w:rsidR="00F25FAC" w:rsidRPr="00C56029" w:rsidRDefault="00F25FAC" w:rsidP="00C56029">
+      <w:pPr>
+        <w:ind w:firstLine="480"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>最后这部分需要手动置底</w:t>
+      </w:r>
+      <w:r w:rsidR="00350729">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>；“</w:t>
+      </w:r>
+      <w:r w:rsidR="00B5224E">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>指导教师签名</w:t>
+      </w:r>
+      <w:r w:rsidR="00350729">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>”</w:t>
+      </w:r>
+      <w:r w:rsidR="00B5224E">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>和</w:t>
+      </w:r>
+      <w:r w:rsidR="00C66246">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>“</w:t>
+      </w:r>
+      <w:r w:rsidR="00612F3D">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>专业负责人签章</w:t>
+      </w:r>
+      <w:r w:rsidR="00C66246">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>”</w:t>
+      </w:r>
+      <w:r w:rsidR="00612F3D">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>对齐需要使用</w:t>
+      </w:r>
+      <w:r w:rsidR="00612F3D">
+        <w:t>Tab</w:t>
+      </w:r>
+      <w:r w:rsidR="00612F3D">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>键</w:t>
+      </w:r>
+      <w:r w:rsidR="00A86503">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>；</w:t>
+      </w:r>
+      <w:r w:rsidR="00DC0456">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>看完</w:t>
+      </w:r>
+      <w:r w:rsidR="00A86503">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>这段话</w:t>
+      </w:r>
+      <w:r w:rsidR="00DC0456">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>后</w:t>
+      </w:r>
+      <w:r w:rsidR="00A86503">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>请</w:t>
+      </w:r>
+      <w:r w:rsidR="00FF3EA4">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>删掉。</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="38A96FB4" w14:textId="46B62357" w:rsidR="00497E5A" w:rsidRDefault="00497E5A" w:rsidP="00624D28">
+      <w:pPr>
+        <w:pStyle w:val="ending"/>
+        <w:spacing w:after="312"/>
+        <w:ind w:firstLine="480"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>发出任务书日期：</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="855691567"/>
+          <w:placeholder>
+            <w:docPart w:val="D69CA828735047D389D55B96BE56C6DC"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00A4793E">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入年份</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>年</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="901870296"/>
+          <w:placeholder>
+            <w:docPart w:val="E91E18C43D14445ABF9BB96E3DB799FF"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00A4793E">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入月份</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>月</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="-1904443324"/>
+          <w:placeholder>
+            <w:docPart w:val="9C7A1CAB66C84A6B9CAEC9498F2C7BD7"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00A4793E">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入日</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>日</w:t>
+      </w:r>
+      <w:r w:rsidR="00005366">
+        <w:tab/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>指导教师签名：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="47C06CC2" w14:textId="5476ADED" w:rsidR="00497E5A" w:rsidRDefault="00497E5A" w:rsidP="00624D28">
+      <w:pPr>
+        <w:pStyle w:val="ending"/>
+        <w:spacing w:after="312"/>
+        <w:ind w:firstLine="480"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>预计完成日期：</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="-861283377"/>
+          <w:placeholder>
+            <w:docPart w:val="B952C46316774145BB72F55EADE893C9"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00005366">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入年份</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>年</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="-794674986"/>
+          <w:placeholder>
+            <w:docPart w:val="ACC2B1F8870C41E389F5D35C06A95BE0"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00AB4330">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入月份</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>月</w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+          </w:rPr>
+          <w:id w:val="-1375229681"/>
+          <w:placeholder>
+            <w:docPart w:val="31587C9810CD45E18ADEDC96B37910C4"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:text/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r w:rsidR="00136076">
+            <w:rPr>
+              <w:rStyle w:val="aa"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入日</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>日</w:t>
+      </w:r>
+      <w:r w:rsidR="00C531A9">
+        <w:tab/>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>专业负责人签章：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26B55DB1" w14:textId="2E7122FA" w:rsidR="00903CE1" w:rsidRPr="00903CE1" w:rsidRDefault="00497E5A" w:rsidP="00624D28">
+      <w:pPr>
+        <w:pStyle w:val="ending"/>
+        <w:spacing w:after="312"/>
+        <w:ind w:firstLine="480"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>学院分管教学负责人签章：</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00903CE1" w:rsidRPr="00903CE1">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

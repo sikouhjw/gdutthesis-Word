@@ -1,2 +1,708 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:glossaryDocument xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14"><w:docParts><w:docPart><w:docPartPr><w:name w:val="117B933360AF40B58C8566435024713F"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{C06F1281-FAAE-4FF0-B624-9E652D84A307}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="117B933360AF40B58C8566435024713F"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的标题</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="D86C8B3CC32D4CBF85F449A65B82C071"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{6E757F4A-1E18-4BBF-B4E5-3B35CD909144}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="D86C8B3CC32D4CBF85F449A65B82C071"/><w:spacing w:before="156" w:after="156"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的姓名</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="6C0919E9562E44CBADE5744FF5409343"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{51ADE39B-931F-4923-BB24-9C187C9A0726}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="6C0919E9562E44CBADE5744FF5409343"/><w:spacing w:before="156" w:after="156"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您导师的姓名</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="B0EA31C5E04844CF8C1F45863C0D29E4"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{F10AC775-C78E-4B55-9EED-556DC81F80B2}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="00545CA2" w:rsidP="00545CA2"><w:pPr><w:pStyle w:val="B0EA31C5E04844CF8C1F45863C0D29E45"/><w:ind w:firstLine="360"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的姓名</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="8DA6FFE7AEC148DC8C8DEB2B9D416C56"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{2651E5E1-810B-48A9-A1F4-938D95B5357F}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="8DA6FFE7AEC148DC8C8DEB2B9D416C56"/><w:ind w:firstLine="300"/></w:pPr><w:r w:rsidRPr="00D467A3"><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>输入您的出生年份</w:t></w:r><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>，阿拉伯数字</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="443E723A53BC4FC49A56E50DC2C700A7"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{016DCC6F-AC15-4E0D-A060-5EB11A0C8208}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="443E723A53BC4FC49A56E50DC2C700A7"/><w:ind w:firstLine="300"/></w:pPr><w:r w:rsidRPr="00D467A3"><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>选择您的性别</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="F04916F013C644A0B8D5F11CCDD23E75"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{AABA65A9-7E00-45F2-9E9A-5159851A88A1}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="F04916F013C644A0B8D5F11CCDD23E75"/><w:ind w:firstLine="300"/></w:pPr><w:r w:rsidRPr="00D467A3"><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>输入您的专业名称</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="9EC78C337B704657A5BA101A8E0F46E3"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{95B67452-F214-481E-B255-1CE08622CD72}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="9EC78C337B704657A5BA101A8E0F46E3"/><w:ind w:firstLine="300"/></w:pPr><w:r w:rsidRPr="00D467A3"><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>输入您的届数</w:t></w:r><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>，阿拉伯数字</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="4399678C023944168C00F63538F59582"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{514FB2B0-1281-4671-80FC-30E4F33FE723}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="4399678C023944168C00F63538F59582"/><w:ind w:firstLine="300"/></w:pPr><w:r w:rsidRPr="00D467A3"><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/><w:sz w:val="15"/><w:szCs w:val="15"/></w:rPr><w:t>输入您的学位类型</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="8A6341B67F1C408094C802FE65DE89D8"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{59DC3E2B-A98B-474E-B47E-0C594D77E49D}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="8A6341B67F1C408094C802FE65DE89D8"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的学院名称</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="6C2C41E6D0814B5FB2903331AE803D9B"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{D0BB5C37-F05F-45A6-9F4F-1571D94DF5EC}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="6C2C41E6D0814B5FB2903331AE803D9B"/><w:ind w:left="31680" w:right="31680" w:hanging="360"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的摘要</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="4F3FA74685604E99A30C712943F9DA48"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{4322B27C-12E0-4B4D-BC85-026D4758E794}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="4F3FA74685604E99A30C712943F9DA48"/><w:ind w:left="31680" w:right="31680" w:hanging="360"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的关键词</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="EDBA2E47159B414AABE57E08D088A059"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{682E0D69-B3BD-4A1A-81AC-920DB968622D}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="EDBA2E47159B414AABE57E08D088A059"/><w:ind w:left="31680" w:right="31680" w:hanging="360"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的评阅人评语</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="F968EEEF74994ECCA7D279CDBDD8807D"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{43CDC15F-D041-4C2E-A350-D91E5C1FBDDE}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="F968EEEF74994ECCA7D279CDBDD8807D"/><w:ind w:left="31680" w:right="31680" w:hanging="360"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的评阅人姓名及职称</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="A9B3A64EC5244D04B760F27D20C8CB90"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{DD1728F9-33E9-4D61-AC0E-7D3E5EDD1EBF}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="A9B3A64EC5244D04B760F27D20C8CB90"/><w:spacing w:before="156" w:after="156"/><w:ind w:firstLine="482"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的一级标题</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="8593358FB0F4446F960C28E010E788D7"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{3A849D77-F8E2-44EA-9314-CD922C76E1DD}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="8593358FB0F4446F960C28E010E788D7"/><w:ind w:firstLine="422"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的二级标题</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="D534C02F283649879B0DEBBD1B4134C3"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{4059D518-A830-4129-9D84-59DF6472CA12}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="D534C02F283649879B0DEBBD1B4134C3"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的三级标题</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="25B09A32C768431CB0ED12678D02681C"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{479C95B9-CFE5-48A5-8330-97D1F2173662}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="25B09A32C768431CB0ED12678D02681C"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的参考文献</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="468AB5E3297E4332AC326D0C76995E4A"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{7F047193-8DF0-4F74-9A3D-C3F4D328F2E6}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="468AB5E3297E4332AC326D0C76995E4A"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的英文标题</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="D8AD7E0D77F945BBA0980258DEFCEDF3"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{51460FC2-EAA9-4CBB-A43A-5F815E78F8F4}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="D8AD7E0D77F945BBA0980258DEFCEDF3"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的英文姓名</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="314E160C28714C1FB03E22344C2999F2"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{37A65C06-48B1-4435-A0B5-6FB38521F67E}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="314E160C28714C1FB03E22344C2999F21"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的英文摘要</w:t></w:r></w:p></w:docPartBody></w:docPart><w:docPart><w:docPartPr><w:name w:val="A7E506AEE15D42938FB475CE4CD5EA91"/><w:category><w:name w:val="常规"/><w:gallery w:val="placeholder"/></w:category><w:types><w:type w:val="bbPlcHdr"/></w:types><w:behaviors><w:behavior w:val="content"/></w:behaviors><w:guid w:val="{2AA2838D-2562-4E49-BC5C-2F048C1022D8}"/></w:docPartPr><w:docPartBody><w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1"><w:pPr><w:pStyle w:val="A7E506AEE15D42938FB475CE4CD5EA911"/></w:pPr><w:r><w:rPr><w:rStyle w:val="a3"/><w:rFonts w:hint="eastAsia"/></w:rPr><w:t>输入您的英文关键词</w:t></w:r></w:p></w:docPartBody></w:docPart></w:docParts></w:glossaryDocument>
+<w:glossaryDocument xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:docParts>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="117B933360AF40B58C8566435024713F"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{C06F1281-FAAE-4FF0-B624-9E652D84A307}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="117B933360AF40B58C8566435024713F"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的标题</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="D86C8B3CC32D4CBF85F449A65B82C071"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{6E757F4A-1E18-4BBF-B4E5-3B35CD909144}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="D86C8B3CC32D4CBF85F449A65B82C071"/>
+            <w:spacing w:before="156" w:after="156"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的姓名</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="6C0919E9562E44CBADE5744FF5409343"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{51ADE39B-931F-4923-BB24-9C187C9A0726}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="6C0919E9562E44CBADE5744FF5409343"/>
+            <w:spacing w:before="156" w:after="156"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您导师的姓名</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="B0EA31C5E04844CF8C1F45863C0D29E4"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{F10AC775-C78E-4B55-9EED-556DC81F80B2}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="00545CA2" w:rsidP="00545CA2">
+          <w:pPr>
+            <w:pStyle w:val="B0EA31C5E04844CF8C1F45863C0D29E45"/>
+            <w:ind w:firstLine="360"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的姓名</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="8DA6FFE7AEC148DC8C8DEB2B9D416C56"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{2651E5E1-810B-48A9-A1F4-938D95B5357F}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="8DA6FFE7AEC148DC8C8DEB2B9D416C56"/>
+            <w:ind w:firstLine="300"/>
+          </w:pPr>
+          <w:r w:rsidRPr="00D467A3">
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>输入您的出生年份</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>，阿拉伯数字</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="443E723A53BC4FC49A56E50DC2C700A7"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{016DCC6F-AC15-4E0D-A060-5EB11A0C8208}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="443E723A53BC4FC49A56E50DC2C700A7"/>
+            <w:ind w:firstLine="300"/>
+          </w:pPr>
+          <w:r w:rsidRPr="00D467A3">
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>选择您的性别</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="F04916F013C644A0B8D5F11CCDD23E75"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{AABA65A9-7E00-45F2-9E9A-5159851A88A1}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="F04916F013C644A0B8D5F11CCDD23E75"/>
+            <w:ind w:firstLine="300"/>
+          </w:pPr>
+          <w:r w:rsidRPr="00D467A3">
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>输入您的专业名称</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="9EC78C337B704657A5BA101A8E0F46E3"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{95B67452-F214-481E-B255-1CE08622CD72}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="9EC78C337B704657A5BA101A8E0F46E3"/>
+            <w:ind w:firstLine="300"/>
+          </w:pPr>
+          <w:r w:rsidRPr="00D467A3">
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>输入您的届数</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>，阿拉伯数字</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="4399678C023944168C00F63538F59582"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{514FB2B0-1281-4671-80FC-30E4F33FE723}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="4399678C023944168C00F63538F59582"/>
+            <w:ind w:firstLine="300"/>
+          </w:pPr>
+          <w:r w:rsidRPr="00D467A3">
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+              <w:sz w:val="15"/>
+              <w:szCs w:val="15"/>
+            </w:rPr>
+            <w:t>输入您的学位类型</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="8A6341B67F1C408094C802FE65DE89D8"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{59DC3E2B-A98B-474E-B47E-0C594D77E49D}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="8A6341B67F1C408094C802FE65DE89D8"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的学院名称</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="6C2C41E6D0814B5FB2903331AE803D9B"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{D0BB5C37-F05F-45A6-9F4F-1571D94DF5EC}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="6C2C41E6D0814B5FB2903331AE803D9B"/>
+            <w:ind w:left="31680" w:right="31680" w:hanging="360"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的摘要</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="4F3FA74685604E99A30C712943F9DA48"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{4322B27C-12E0-4B4D-BC85-026D4758E794}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="4F3FA74685604E99A30C712943F9DA48"/>
+            <w:ind w:left="31680" w:right="31680" w:hanging="360"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的关键词</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="EDBA2E47159B414AABE57E08D088A059"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{682E0D69-B3BD-4A1A-81AC-920DB968622D}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="EDBA2E47159B414AABE57E08D088A059"/>
+            <w:ind w:left="31680" w:right="31680" w:hanging="360"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的评阅人评语</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="F968EEEF74994ECCA7D279CDBDD8807D"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{43CDC15F-D041-4C2E-A350-D91E5C1FBDDE}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="F968EEEF74994ECCA7D279CDBDD8807D"/>
+            <w:ind w:left="31680" w:right="31680" w:hanging="360"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的评阅人姓名及职称</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="A9B3A64EC5244D04B760F27D20C8CB90"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{DD1728F9-33E9-4D61-AC0E-7D3E5EDD1EBF}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="A9B3A64EC5244D04B760F27D20C8CB90"/>
+            <w:spacing w:before="156" w:after="156"/>
+            <w:ind w:firstLine="482"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的一级标题</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="8593358FB0F4446F960C28E010E788D7"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{3A849D77-F8E2-44EA-9314-CD922C76E1DD}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="8593358FB0F4446F960C28E010E788D7"/>
+            <w:ind w:firstLine="422"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的二级标题</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="D534C02F283649879B0DEBBD1B4134C3"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{4059D518-A830-4129-9D84-59DF6472CA12}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="D534C02F283649879B0DEBBD1B4134C3"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的三级标题</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="25B09A32C768431CB0ED12678D02681C"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{479C95B9-CFE5-48A5-8330-97D1F2173662}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="25B09A32C768431CB0ED12678D02681C"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的参考文献</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="468AB5E3297E4332AC326D0C76995E4A"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{7F047193-8DF0-4F74-9A3D-C3F4D328F2E6}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="468AB5E3297E4332AC326D0C76995E4A"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的英文标题</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="D8AD7E0D77F945BBA0980258DEFCEDF3"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{51460FC2-EAA9-4CBB-A43A-5F815E78F8F4}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="D8AD7E0D77F945BBA0980258DEFCEDF3"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的英文姓名</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="314E160C28714C1FB03E22344C2999F2"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{37A65C06-48B1-4435-A0B5-6FB38521F67E}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="314E160C28714C1FB03E22344C2999F21"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的英文摘要</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+    <w:docPart>
+      <w:docPartPr>
+        <w:name w:val="A7E506AEE15D42938FB475CE4CD5EA91"/>
+        <w:category>
+          <w:name w:val="常规"/>
+          <w:gallery w:val="placeholder"/>
+        </w:category>
+        <w:types>
+          <w:type w:val="bbPlcHdr"/>
+        </w:types>
+        <w:behaviors>
+          <w:behavior w:val="content"/>
+        </w:behaviors>
+        <w:guid w:val="{2AA2838D-2562-4E49-BC5C-2F048C1022D8}"/>
+      </w:docPartPr>
+      <w:docPartBody>
+        <w:p w:rsidR="00D309F8" w:rsidRDefault="001878C1" w:rsidP="001878C1">
+          <w:pPr>
+            <w:pStyle w:val="A7E506AEE15D42938FB475CE4CD5EA911"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:rStyle w:val="a3"/>
+              <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t>输入您的英文关键词</w:t>
+          </w:r>
+        </w:p>
+      </w:docPartBody>
+    </w:docPart>
+  </w:docParts>
+</w:glossaryDocument>
