@@ -3,7 +3,7 @@
   <w:docParts>
     <w:docPart>
       <w:docPartPr>
-        <w:name w:val="4EAF1ECF0D514A37A41CDDBE9EF449D1"/>
+        <w:name w:val="36BADFD875F048E787E336E7BFF912A6"/>
         <w:category>
           <w:name w:val="常规"/>
           <w:gallery w:val="placeholder"/>
@@ -14,109 +14,19 @@
         <w:behaviors>
           <w:behavior w:val="content"/>
         </w:behaviors>
-        <w:guid w:val="{463E7C32-7047-480F-8369-7B17488BB0C6}"/>
+        <w:guid w:val="{90496AF0-AF67-441A-8DBB-C4957E4ED3E1}"/>
       </w:docPartPr>
       <w:docPartBody>
-        <w:p w:rsidR="00C04CB5" w:rsidRDefault="00C04CB5" w:rsidP="00C04CB5">
+        <w:p w:rsidR="00000000" w:rsidRDefault="00C849F3" w:rsidP="00C849F3">
           <w:pPr>
-            <w:pStyle w:val="4EAF1ECF0D514A37A41CDDBE9EF449D12"/>
+            <w:pStyle w:val="36BADFD875F048E787E336E7BFF912A6"/>
           </w:pPr>
           <w:r>
             <w:rPr>
               <w:rStyle w:val="a3"/>
               <w:rFonts w:hint="eastAsia"/>
             </w:rPr>
-            <w:t>输入作者姓名</w:t>
-          </w:r>
-        </w:p>
-      </w:docPartBody>
-    </w:docPart>
-    <w:docPart>
-      <w:docPartPr>
-        <w:name w:val="E46EF0C995E14F62BC0858642B475253"/>
-        <w:category>
-          <w:name w:val="常规"/>
-          <w:gallery w:val="placeholder"/>
-        </w:category>
-        <w:types>
-          <w:type w:val="bbPlcHdr"/>
-        </w:types>
-        <w:behaviors>
-          <w:behavior w:val="content"/>
-        </w:behaviors>
-        <w:guid w:val="{0994B0B8-A154-46F2-A166-DC18960510DA}"/>
-      </w:docPartPr>
-      <w:docPartBody>
-        <w:p w:rsidR="00C04CB5" w:rsidRDefault="00C04CB5" w:rsidP="00C04CB5">
-          <w:pPr>
-            <w:pStyle w:val="E46EF0C995E14F62BC0858642B4752532"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:rStyle w:val="a3"/>
-              <w:rFonts w:hint="eastAsia"/>
-            </w:rPr>
-            <w:t>输入导师姓名</w:t>
-          </w:r>
-        </w:p>
-      </w:docPartBody>
-    </w:docPart>
-    <w:docPart>
-      <w:docPartPr>
-        <w:name w:val="F8B7B2C7961648B49EA236BBEA2163FC"/>
-        <w:category>
-          <w:name w:val="常规"/>
-          <w:gallery w:val="placeholder"/>
-        </w:category>
-        <w:types>
-          <w:type w:val="bbPlcHdr"/>
-        </w:types>
-        <w:behaviors>
-          <w:behavior w:val="content"/>
-        </w:behaviors>
-        <w:guid w:val="{42FCD82C-C33A-44ED-8E03-0EC191D70C75}"/>
-      </w:docPartPr>
-      <w:docPartBody>
-        <w:p w:rsidR="00C04CB5" w:rsidRDefault="00C04CB5" w:rsidP="00C04CB5">
-          <w:pPr>
-            <w:pStyle w:val="F8B7B2C7961648B49EA236BBEA2163FC2"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:rStyle w:val="a3"/>
-              <w:rFonts w:hint="eastAsia"/>
-            </w:rPr>
-            <w:t>输入学科名称</w:t>
-          </w:r>
-        </w:p>
-      </w:docPartBody>
-    </w:docPart>
-    <w:docPart>
-      <w:docPartPr>
-        <w:name w:val="D7D214A452F5420DB6F853F1DDBEB4A7"/>
-        <w:category>
-          <w:name w:val="常规"/>
-          <w:gallery w:val="placeholder"/>
-        </w:category>
-        <w:types>
-          <w:type w:val="bbPlcHdr"/>
-        </w:types>
-        <w:behaviors>
-          <w:behavior w:val="content"/>
-        </w:behaviors>
-        <w:guid w:val="{4327CE10-2BDC-45FA-BFF8-E0A9F3FF2054}"/>
-      </w:docPartPr>
-      <w:docPartBody>
-        <w:p w:rsidR="00C04CB5" w:rsidRDefault="00C04CB5" w:rsidP="00C04CB5">
-          <w:pPr>
-            <w:pStyle w:val="D7D214A452F5420DB6F853F1DDBEB4A72"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:rStyle w:val="a3"/>
-              <w:rFonts w:hint="eastAsia"/>
-            </w:rPr>
-            <w:t>输入答辩年月</w:t>
+            <w:t>选择学历类型</w:t>
           </w:r>
         </w:p>
       </w:docPartBody>
