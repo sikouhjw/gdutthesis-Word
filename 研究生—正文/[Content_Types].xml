@@ -30,6 +30,7 @@
   <Override PartName="/word/header9.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>
   <Override PartName="/word/header10.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>
   <Override PartName="/word/header11.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>
+  <Override PartName="/word/header12.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>
   <Override PartName="/word/fontTable.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml"/>
   <Override PartName="/word/glossary/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml"/>
   <Override PartName="/word/glossary/numbering.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"/>
