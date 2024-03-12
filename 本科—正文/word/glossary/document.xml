@@ -1455,13 +1455,13 @@
             </w:rPr>
             <w:t>图</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="begin"/>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:instrText xml:space="preserve"> STYLEREF 7 \s </w:instrText>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="separate"/>
           </w:r>
           <w:r>
@@ -1470,7 +1470,7 @@
             </w:rPr>
             <w:t>A</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:rPr>
               <w:noProof/>
             </w:rPr>
@@ -1557,13 +1557,13 @@
             </w:rPr>
             <w:t>表</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="begin"/>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:instrText xml:space="preserve"> STYLEREF 7 \s </w:instrText>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="separate"/>
           </w:r>
           <w:r>
@@ -1572,7 +1572,7 @@
             </w:rPr>
             <w:t>A</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:rPr>
               <w:noProof/>
             </w:rPr>
@@ -1994,13 +1994,13 @@
             </w:rPr>
             <w:t>图</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="begin"/>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:instrText xml:space="preserve"> STYLEREF 7 \s </w:instrText>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:fldChar w:fldCharType="separate"/>
           </w:r>
           <w:r>
@@ -2009,7 +2009,7 @@
             </w:rPr>
             <w:t>A</w:t>
           </w:r>
-          <w:r w:rsidR="00000000">
+          <w:r>
             <w:rPr>
               <w:noProof/>
             </w:rPr>
