@@ -54,6 +54,7 @@
 - [自动图文集格式不正确](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E8%87%AA%E5%8A%A8%E5%9B%BE%E6%96%87%E9%9B%86%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 - [交叉引用找不到标签](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E4%BA%A4%E5%8F%89%E5%BC%95%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 - [看不见 TC 域代码](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E4%BA%A4%E5%8F%89%E5%BC%95%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+- [公式编号未随 chapter 更新](https://github.com/sikouhjw/gdutthesis-Word/issues/17#issuecomment-1399499874) 及[多级列表样式定义](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E5%A4%9A%E7%BA%A7%E5%88%97%E8%A1%A8%E6%A0%B7%E5%BC%8F)
 
 ### 重要提醒
 
