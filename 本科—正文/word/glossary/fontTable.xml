@@ -64,6 +64,6 @@
     <w:charset w:val="00"/>
     <w:family w:val="roman"/>
     <w:pitch w:val="variable"/>
-    <w:sig w:usb0="E00002FF" w:usb1="420024FF" w:usb2="00000000" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000"/>
+    <w:sig w:usb0="E00006FF" w:usb1="420024FF" w:usb2="02000000" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000"/>
   </w:font>
 </w:fonts>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:numbering xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+<w:numbering xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
   <w:abstractNum w:abstractNumId="0" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="139A41EC"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="1" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="15A75831"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:name w:val="math2"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="2" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="18B46141"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="3" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="28D41847"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="4" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="34A143C2"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:name w:val="math"/>
     <w:styleLink w:val="a"/>
     <w:lvl w:ilvl="0">
@@ -132,6 +132,7 @@
       <w:start w:val="1"/>
       <w:numFmt w:val="decimal"/>
       <w:lvlRestart w:val="1"/>
+      <w:pStyle w:val="equation"/>
       <w:suff w:val="nothing"/>
       <w:lvlText w:val="(%1.%8)"/>
       <w:lvlJc w:val="left"/>
@@ -160,7 +161,7 @@
   <w:abstractNum w:abstractNumId="5" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="35722196"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="6" w15:restartNumberingAfterBreak="0">
@@ -279,37 +280,37 @@
   <w:abstractNum w:abstractNumId="7" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="4D4D4C62"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="8" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="59113863"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="9" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="592E0313"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="10" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="6291296F"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="11" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="67A91C7C"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="12" w15:restartNumberingAfterBreak="0">
     <w:nsid w:val="6AA76483"/>
     <w:multiLevelType w:val="multilevel"/>
-    <w:tmpl w:val="943E90EC"/>
+    <w:tmpl w:val="C2D266B8"/>
     <w:numStyleLink w:val="a"/>
   </w:abstractNum>
   <w:abstractNum w:abstractNumId="13" w15:restartNumberingAfterBreak="0">
@@ -496,5 +497,35 @@
   </w:num>
   <w:num w:numId="15" w16cid:durableId="364717881">
     <w:abstractNumId w:val="1"/>
+  </w:num>
+  <w:num w:numId="16" w16cid:durableId="1671904777">
+    <w:abstractNumId w:val="4"/>
+    <w:lvlOverride w:ilvl="0">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="1">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="2">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="3">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="4">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="5">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="6">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="7">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
+    <w:lvlOverride w:ilvl="8">
+      <w:startOverride w:val="1"/>
+    </w:lvlOverride>
   </w:num>
 </w:numbering>

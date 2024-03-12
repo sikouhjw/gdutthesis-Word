@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
-  <w:zoom w:percent="140"/>
+  <w:zoom w:percent="90"/>
   <w:bordersDoNotSurroundHeader/>
   <w:bordersDoNotSurroundFooter/>
   <w:proofState w:spelling="clean" w:grammar="clean"/>
@@ -226,6 +226,7 @@
     <w:rsid w:val="005E0CD0"/>
     <w:rsid w:val="005E62ED"/>
     <w:rsid w:val="0060551C"/>
+    <w:rsid w:val="0061318A"/>
     <w:rsid w:val="0062367E"/>
     <w:rsid w:val="006257AC"/>
     <w:rsid w:val="00632700"/>
@@ -503,6 +504,7 @@
     <w:rsid w:val="00F07BD9"/>
     <w:rsid w:val="00F1058B"/>
     <w:rsid w:val="00F11527"/>
+    <w:rsid w:val="00F1761C"/>
     <w:rsid w:val="00F210EE"/>
     <w:rsid w:val="00F30911"/>
     <w:rsid w:val="00F364E2"/>

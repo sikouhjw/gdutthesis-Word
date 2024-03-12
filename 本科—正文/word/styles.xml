@@ -412,11 +412,11 @@
     <w:next w:val="a0"/>
     <w:link w:val="10"/>
     <w:qFormat/>
-    <w:rsid w:val="00B6785D"/>
+    <w:rsid w:val="0061318A"/>
     <w:pPr>
       <w:pageBreakBefore/>
       <w:numPr>
-        <w:numId w:val="15"/>
+        <w:numId w:val="1"/>
       </w:numPr>
       <w:ind w:firstLineChars="0"/>
       <w:jc w:val="center"/>
@@ -894,11 +894,11 @@
     <w:next w:val="a0"/>
     <w:link w:val="section0"/>
     <w:qFormat/>
-    <w:rsid w:val="00B6785D"/>
+    <w:rsid w:val="0061318A"/>
     <w:pPr>
       <w:numPr>
         <w:ilvl w:val="1"/>
-        <w:numId w:val="15"/>
+        <w:numId w:val="1"/>
       </w:numPr>
       <w:spacing w:beforeLines="50" w:before="50" w:afterLines="50" w:after="50"/>
       <w:ind w:firstLineChars="0"/>
@@ -934,11 +934,11 @@
     <w:next w:val="a0"/>
     <w:link w:val="subsection0"/>
     <w:qFormat/>
-    <w:rsid w:val="00B6785D"/>
+    <w:rsid w:val="0061318A"/>
     <w:pPr>
       <w:numPr>
         <w:ilvl w:val="2"/>
-        <w:numId w:val="15"/>
+        <w:numId w:val="1"/>
       </w:numPr>
       <w:spacing w:beforeLines="50" w:before="50" w:afterLines="50" w:after="50"/>
       <w:ind w:firstLineChars="0"/>
@@ -972,7 +972,7 @@
   <w:style w:type="numbering" w:customStyle="1" w:styleId="a">
     <w:name w:val="章节"/>
     <w:uiPriority w:val="99"/>
-    <w:rsid w:val="00B6785D"/>
+    <w:rsid w:val="0061318A"/>
     <w:pPr>
       <w:numPr>
         <w:numId w:val="1"/>
@@ -1310,16 +1310,16 @@
     <w:next w:val="a0"/>
     <w:link w:val="-list0"/>
     <w:qFormat/>
-    <w:rsid w:val="00B6785D"/>
+    <w:rsid w:val="0061318A"/>
     <w:pPr>
       <w:numPr>
         <w:ilvl w:val="3"/>
-        <w:numId w:val="15"/>
+        <w:numId w:val="1"/>
       </w:numPr>
       <w:tabs>
         <w:tab w:val="left" w:pos="600"/>
       </w:tabs>
-      <w:ind w:left="250" w:hangingChars="250" w:hanging="250"/>
+      <w:ind w:firstLineChars="0"/>
     </w:pPr>
   </w:style>
   <w:style w:type="character" w:customStyle="1" w:styleId="chapter-0">
@@ -1519,11 +1519,15 @@
     <w:qFormat/>
     <w:rsid w:val="00705FC2"/>
     <w:pPr>
+      <w:numPr>
+        <w:ilvl w:val="7"/>
+        <w:numId w:val="1"/>
+      </w:numPr>
       <w:tabs>
         <w:tab w:val="center" w:pos="4536"/>
         <w:tab w:val="right" w:pos="9072"/>
       </w:tabs>
-      <w:ind w:firstLineChars="0" w:firstLine="0"/>
+      <w:ind w:firstLineChars="0"/>
       <w:jc w:val="left"/>
     </w:pPr>
   </w:style>
