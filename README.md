@@ -11,7 +11,7 @@
 
 本模板支持本科及研究生的学位论文（设计）撰写。借助 Word 样式、自动图文集和开发者功能，希望达到用户接口简明、内容格式规范和模板样式可定制的统一。
 
-在您使用 `gdutthesis-Word` 之前，请务必仔细阅读本文档 [`README.md`](https://github.com/sikouhjw/gdutthesis-Word/blob/main/README.md) 和 [Wiki](https://github.com/sikouhjw/gdutthesis-Word/wiki)。
+在您使用 `gdutthesis-Word` 之前，请**务必**仔细阅读本文档 [`README.md`](https://github.com/sikouhjw/gdutthesis-Word/blob/main/README.md) 和 [Wiki](https://github.com/sikouhjw/gdutthesis-Word/wiki)。
 
 ### 模板获取
 
@@ -50,6 +50,10 @@
 ##### 局部依赖字体
 - [方正小标宋简体](https://www.foundertype.com/index.php/FontInfo/index/id/164)：`本科—任务书.dotx`
 
+### 模板使用须知
+- [自动图文集格式不正确](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E8%87%AA%E5%8A%A8%E5%9B%BE%E6%96%87%E9%9B%86%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+- [交叉引用找不到标签](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E4%BA%A4%E5%8F%89%E5%BC%95%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+- [看不见 TC 域代码](https://github.com/sikouhjw/gdutthesis-Word/wiki#%E4%BA%A4%E5%8F%89%E5%BC%95%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
 ### 重要提醒
 
