@@ -108,11 +108,19 @@
       <w:r w:rsidR="001B60C0">
         <w:tab/>
       </w:r>
+      <w:proofErr w:type="gramStart"/>
       <w:r w:rsidR="001B60C0">
         <w:rPr>
           <w:rFonts w:hint="eastAsia"/>
         </w:rPr>
-        <w:t>学　　号：</w:t>
+        <w:t xml:space="preserve">学　　</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidR="001B60C0">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>号：</w:t>
       </w:r>
       <w:sdt>
         <w:sdtPr>
@@ -1166,7 +1174,7 @@
     <w:p w14:paraId="4007D1BE" w14:textId="4E00E542" w:rsidR="00FE5101" w:rsidRDefault="00D848BD" w:rsidP="00FE5101">
       <w:pPr>
         <w:pStyle w:val="-info-c"/>
-        <w:sectPr w:rsidR="00FE5101" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="00FE5101" w:rsidSect="001E5D15">
           <w:headerReference w:type="even" r:id="rId9"/>
           <w:headerReference w:type="default" r:id="rId10"/>
           <w:footerReference w:type="even" r:id="rId11"/>
@@ -1190,11 +1198,10 @@
         <w:t>, Guangdong, P. R. China</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6A411161" w14:textId="2355129D" w:rsidR="001B7603" w:rsidRDefault="001B7603" w:rsidP="001B7603">
+    <w:p w14:paraId="6A411161" w14:textId="2355129D" w:rsidR="001B7603" w:rsidRDefault="001B7603" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter-"/>
-        <w:pageBreakBefore/>
-        <w:spacing w:beforeLines="0" w:before="0" w:after="312"/>
+        <w:spacing w:before="1248"/>
       </w:pPr>
       <w:r w:rsidRPr="00967F0F">
         <w:rPr>
@@ -1239,10 +1246,10 @@
         <w:t>日期：</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5C4B39D2" w14:textId="77777777" w:rsidR="001B7603" w:rsidRDefault="001B7603" w:rsidP="001B7603">
+    <w:p w14:paraId="5C4B39D2" w14:textId="77777777" w:rsidR="001B7603" w:rsidRDefault="001B7603" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter-"/>
-        <w:spacing w:before="1248" w:after="312"/>
+        <w:spacing w:before="1248"/>
       </w:pPr>
       <w:r w:rsidRPr="00AB29BF">
         <w:rPr>
@@ -1313,7 +1320,7 @@
     <w:p w14:paraId="4629367E" w14:textId="4DE47A5A" w:rsidR="001B7603" w:rsidRDefault="001B7603" w:rsidP="001B7603">
       <w:pPr>
         <w:ind w:firstLine="480"/>
-        <w:sectPr w:rsidR="001B7603" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="001B7603" w:rsidSect="001E5D15">
           <w:headerReference w:type="even" r:id="rId15"/>
           <w:headerReference w:type="default" r:id="rId16"/>
           <w:footerReference w:type="even" r:id="rId17"/>
@@ -1327,10 +1334,9 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="273492BC" w14:textId="0459F390" w:rsidR="00D848BD" w:rsidRDefault="00270507" w:rsidP="00FE5101">
+    <w:p w14:paraId="273492BC" w14:textId="0459F390" w:rsidR="00D848BD" w:rsidRDefault="00270507" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="312"/>
       </w:pPr>
       <w:bookmarkStart w:id="0" w:name="_Toc156648803"/>
       <w:r w:rsidRPr="00270507">
@@ -1435,10 +1441,9 @@
         </w:sdtContent>
       </w:sdt>
     </w:p>
-    <w:p w14:paraId="14098C18" w14:textId="5E203F47" w:rsidR="0031335A" w:rsidRDefault="00FD3133" w:rsidP="00FD3133">
+    <w:p w14:paraId="14098C18" w14:textId="5E203F47" w:rsidR="0031335A" w:rsidRDefault="00FD3133" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="312"/>
       </w:pPr>
       <w:bookmarkStart w:id="2" w:name="_Toc156648804"/>
       <w:r w:rsidRPr="00FD3133">
@@ -1456,8 +1461,13 @@
         <w:instrText>"</w:instrText>
       </w:r>
       <w:bookmarkStart w:id="3" w:name="_Toc156648854"/>
+      <w:proofErr w:type="gramStart"/>
       <w:r w:rsidR="006D5285" w:rsidRPr="006D5285">
-        <w:instrText>ABSTRACT(IN ENGLISH)</w:instrText>
+        <w:instrText>ABSTRACT(</w:instrText>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidR="006D5285" w:rsidRPr="006D5285">
+        <w:instrText>IN ENGLISH)</w:instrText>
       </w:r>
       <w:bookmarkEnd w:id="3"/>
       <w:r w:rsidR="006D5285" w:rsidRPr="006D5285">
@@ -1567,10 +1577,9 @@
         </w:sdtContent>
       </w:sdt>
     </w:p>
-    <w:p w14:paraId="15B61FA5" w14:textId="12C8D554" w:rsidR="00951775" w:rsidRDefault="00951775" w:rsidP="00951775">
+    <w:p w14:paraId="15B61FA5" w14:textId="12C8D554" w:rsidR="00951775" w:rsidRDefault="00951775" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="312"/>
       </w:pPr>
       <w:bookmarkStart w:id="4" w:name="_Toc156648805"/>
       <w:r w:rsidRPr="00951775">
@@ -1737,10 +1746,9 @@
         </w:sdt>
       </w:tr>
     </w:tbl>
-    <w:p w14:paraId="124E34F3" w14:textId="420B64DD" w:rsidR="006543D1" w:rsidRDefault="0066565F" w:rsidP="0066565F">
+    <w:p w14:paraId="124E34F3" w14:textId="420B64DD" w:rsidR="006543D1" w:rsidRDefault="0066565F" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="312"/>
       </w:pPr>
       <w:bookmarkStart w:id="6" w:name="_Toc156648806"/>
       <w:r>
@@ -2790,10 +2798,9 @@
         </w:r>
       </w:hyperlink>
     </w:p>
-    <w:p w14:paraId="48BD2F28" w14:textId="25820899" w:rsidR="00EA5DB9" w:rsidRDefault="00E21620" w:rsidP="002D6515">
+    <w:p w14:paraId="48BD2F28" w14:textId="25820899" w:rsidR="00EA5DB9" w:rsidRDefault="00E21620" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="312"/>
       </w:pPr>
       <w:r>
         <w:rPr>
@@ -2817,11 +2824,16 @@
         <w:instrText>"</w:instrText>
       </w:r>
       <w:bookmarkStart w:id="9" w:name="_Toc156648857"/>
+      <w:proofErr w:type="gramStart"/>
       <w:r w:rsidR="00DB5FF9">
         <w:instrText>CONTENTS</w:instrText>
       </w:r>
       <w:r w:rsidR="00DB5FF9" w:rsidRPr="00DB5FF9">
-        <w:instrText>(IN ENGLISH)</w:instrText>
+        <w:instrText>(</w:instrText>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidR="00DB5FF9" w:rsidRPr="00DB5FF9">
+        <w:instrText>IN ENGLISH)</w:instrText>
       </w:r>
       <w:bookmarkEnd w:id="9"/>
       <w:r w:rsidR="00DB5FF9" w:rsidRPr="00DB5FF9">
@@ -3829,7 +3841,7 @@
         <w:rPr>
           <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
         </w:rPr>
-        <w:sectPr w:rsidR="00D90F35" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="00D90F35" w:rsidSect="001E5D15">
           <w:headerReference w:type="even" r:id="rId19"/>
           <w:headerReference w:type="default" r:id="rId20"/>
           <w:footerReference w:type="even" r:id="rId21"/>
@@ -4194,7 +4206,7 @@
     <w:p w14:paraId="7B73E1B2" w14:textId="5036C50A" w:rsidR="006C6036" w:rsidRPr="00131EAE" w:rsidRDefault="006C6036" w:rsidP="00131EAE">
       <w:pPr>
         <w:ind w:firstLine="480"/>
-        <w:sectPr w:rsidR="006C6036" w:rsidRPr="00131EAE" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="006C6036" w:rsidRPr="00131EAE" w:rsidSect="001E5D15">
           <w:headerReference w:type="default" r:id="rId23"/>
           <w:footerReference w:type="default" r:id="rId24"/>
           <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
@@ -4338,10 +4350,7 @@
         <w:spacing w:line="240" w:lineRule="auto"/>
         <w:ind w:firstLineChars="0" w:firstLine="0"/>
         <w:jc w:val="left"/>
-        <w:rPr>
-          <w:rFonts w:hint="eastAsia"/>
-        </w:rPr>
-        <w:sectPr w:rsidR="000E7542" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="000E7542" w:rsidSect="001E5D15">
           <w:headerReference w:type="default" r:id="rId25"/>
           <w:type w:val="continuous"/>
           <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
@@ -4356,10 +4365,9 @@
         <w:ind w:firstLine="480"/>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="5B8DD954" w14:textId="11053E24" w:rsidR="00977828" w:rsidRDefault="0003723B" w:rsidP="0003723B">
+    <w:p w14:paraId="5B8DD954" w14:textId="11053E24" w:rsidR="00977828" w:rsidRDefault="0003723B" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="326"/>
       </w:pPr>
       <w:bookmarkStart w:id="18" w:name="_Toc156648812"/>
       <w:r w:rsidRPr="0003723B">
@@ -4423,10 +4431,9 @@
         </w:sdtContent>
       </w:sdt>
     </w:p>
-    <w:p w14:paraId="07B2F057" w14:textId="10CCB312" w:rsidR="007E09E5" w:rsidRDefault="00530E18" w:rsidP="00530E18">
+    <w:p w14:paraId="07B2F057" w14:textId="10CCB312" w:rsidR="007E09E5" w:rsidRDefault="00530E18" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="326"/>
       </w:pPr>
       <w:bookmarkStart w:id="20" w:name="_Toc156648813"/>
       <w:r w:rsidRPr="00530E18">
@@ -4554,7 +4561,7 @@
     <w:p w14:paraId="3FCC1EDE" w14:textId="037C090E" w:rsidR="00973A47" w:rsidRDefault="00973A47" w:rsidP="00C810E0">
       <w:pPr>
         <w:ind w:firstLineChars="0" w:firstLine="0"/>
-        <w:sectPr w:rsidR="00973A47" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="00973A47" w:rsidSect="001E5D15">
           <w:headerReference w:type="default" r:id="rId26"/>
           <w:type w:val="continuous"/>
           <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
@@ -4564,10 +4571,9 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="1CC76F18" w14:textId="554C3F6F" w:rsidR="00B6562B" w:rsidRDefault="00200BEB" w:rsidP="00200BEB">
+    <w:p w14:paraId="1CC76F18" w14:textId="554C3F6F" w:rsidR="00B6562B" w:rsidRDefault="00200BEB" w:rsidP="00316901">
       <w:pPr>
         <w:pStyle w:val="chapter"/>
-        <w:spacing w:after="326"/>
       </w:pPr>
       <w:bookmarkStart w:id="22" w:name="_Toc156648814"/>
       <w:r>
@@ -4638,7 +4644,7 @@
     <w:p w14:paraId="2D490DDA" w14:textId="392D327A" w:rsidR="00BB5D2F" w:rsidRDefault="00BB5D2F" w:rsidP="003E439F">
       <w:pPr>
         <w:ind w:firstLine="480"/>
-        <w:sectPr w:rsidR="00BB5D2F" w:rsidSect="00797382">
+        <w:sectPr w:rsidR="00BB5D2F" w:rsidSect="001E5D15">
           <w:headerReference w:type="default" r:id="rId27"/>
           <w:type w:val="continuous"/>
           <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
@@ -4747,7 +4753,7 @@
         <w:fldChar w:fldCharType="end"/>
       </w:r>
     </w:p>
-    <w:sectPr w:rsidR="00FF6035" w:rsidSect="00797382">
+    <w:sectPr w:rsidR="00FF6035" w:rsidSect="001E5D15">
       <w:headerReference w:type="default" r:id="rId28"/>
       <w:type w:val="continuous"/>
       <w:pgSz w:w="11906" w:h="16838" w:code="9"/>

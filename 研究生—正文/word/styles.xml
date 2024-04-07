@@ -837,12 +837,11 @@
     <w:next w:val="a1"/>
     <w:link w:val="chapter0"/>
     <w:qFormat/>
-    <w:rsid w:val="00900C87"/>
+    <w:rsid w:val="00316901"/>
     <w:pPr>
       <w:keepNext/>
       <w:keepLines/>
       <w:pageBreakBefore/>
-      <w:spacing w:afterLines="100" w:after="100"/>
       <w:ind w:firstLineChars="0" w:firstLine="0"/>
       <w:jc w:val="center"/>
       <w:outlineLvl w:val="0"/>
@@ -880,7 +879,7 @@
     <w:name w:val="chapter* 字符"/>
     <w:basedOn w:val="a2"/>
     <w:link w:val="chapter"/>
-    <w:rsid w:val="00900C87"/>
+    <w:rsid w:val="00316901"/>
     <w:rPr>
       <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
       <w:sz w:val="36"/>
